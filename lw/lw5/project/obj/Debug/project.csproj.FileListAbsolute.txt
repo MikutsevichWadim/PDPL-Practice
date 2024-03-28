@@ -1,0 +1,7 @@
+C:\Users\USER\Studies\pdpl\practice\lw\lw5\project\bin\Debug\project.exe.config
+C:\Users\USER\Studies\pdpl\practice\lw\lw5\project\bin\Debug\project.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw5\project\bin\Debug\project.pdb
+C:\Users\USER\Studies\pdpl\practice\lw\lw5\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw5\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw5\project\obj\Debug\project.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw5\project\obj\Debug\project.pdb

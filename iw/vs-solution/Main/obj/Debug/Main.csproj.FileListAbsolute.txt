@@ -1,0 +1,14 @@
+C:\Users\USER\Studies\pdpl\practice\iw\Main\bin\Debug\Main.exe.config
+C:\Users\USER\Studies\pdpl\practice\iw\Main\bin\Debug\Main.exe
+C:\Users\USER\Studies\pdpl\practice\iw\Main\bin\Debug\Main.pdb
+C:\Users\USER\Studies\pdpl\practice\iw\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\USER\Studies\pdpl\practice\iw\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\USER\Studies\pdpl\practice\iw\Main\obj\Debug\Main.exe
+C:\Users\USER\Studies\pdpl\practice\iw\Main\obj\Debug\Main.pdb
+C:\Users\USER\Studies\pdpl\practice\iw\vs-solution\Main\bin\Debug\Main.exe.config
+C:\Users\USER\Studies\pdpl\practice\iw\vs-solution\Main\bin\Debug\Main.exe
+C:\Users\USER\Studies\pdpl\practice\iw\vs-solution\Main\bin\Debug\Main.pdb
+C:\Users\USER\Studies\pdpl\practice\iw\vs-solution\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\USER\Studies\pdpl\practice\iw\vs-solution\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\USER\Studies\pdpl\practice\iw\vs-solution\Main\obj\Debug\Main.exe
+C:\Users\USER\Studies\pdpl\practice\iw\vs-solution\Main\obj\Debug\Main.pdb

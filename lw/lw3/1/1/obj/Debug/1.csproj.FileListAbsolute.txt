@@ -1,0 +1,14 @@
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_3\1\1\bin\Debug\1.exe.config
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_3\1\1\bin\Debug\1.exe
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_3\1\1\bin\Debug\1.pdb
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_3\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_3\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_3\1\1\obj\Debug\1.exe
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_3\1\1\obj\Debug\1.pdb
+C:\Users\USER\Studies\pdpl\practice\lw\lw3\1\1\bin\Debug\1.exe.config
+C:\Users\USER\Studies\pdpl\practice\lw\lw3\1\1\bin\Debug\1.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw3\1\1\bin\Debug\1.pdb
+C:\Users\USER\Studies\pdpl\practice\lw\lw3\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw3\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw3\1\1\obj\Debug\1.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw3\1\1\obj\Debug\1.pdb

@@ -1,0 +1,14 @@
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_8\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_8\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_8\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_8\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_8\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_8\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\91_days\Desktop\college\3_курс\ППП\лаб_р_8\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\USER\Studies\pdpl\practice\lw\lw8\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\USER\Studies\pdpl\practice\lw\lw8\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw8\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\USER\Studies\pdpl\practice\lw\lw8\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw8\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw8\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw8\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

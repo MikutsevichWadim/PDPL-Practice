@@ -1,0 +1,14 @@
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\bin\Debug\lw4.exe.config
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\bin\Debug\lw4.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\bin\Debug\lw4.pdb
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\obj\Debug\lw4.csproj.AssemblyReference.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\obj\Debug\lw4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\obj\Debug\lw4.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\obj\Debug\lw4.pdb
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\project\bin\Debug\lw4.exe.config
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\project\bin\Debug\lw4.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\project\bin\Debug\lw4.pdb
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\project\obj\Debug\lw4.csproj.AssemblyReference.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\project\obj\Debug\lw4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\project\obj\Debug\lw4.exe
+C:\Users\USER\Studies\pdpl\practice\lw\lw4\project\obj\Debug\lw4.pdb
